@@ -1,0 +1,2 @@
+# proprietary_vendor_huawei_kirin970-common
+proprietary_vendor_huawei_kirin970-common
