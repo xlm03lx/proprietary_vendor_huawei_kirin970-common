@@ -21,9 +21,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/bin/hw/hostapd:system/bin/hw/hostapd \
     vendor/huawei/kirin970-common/proprietary/bin/hw/hostapd_hisi:system/bin/hw/hostapd_hisi \
     vendor/huawei/kirin970-common/proprietary/emui/base/global/ons.bin:system/emui/base/global/ons.bin \
-	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x1920/battery_abnormality_charging.png:system/etc/charger/1080x1920/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x1920/battery_abnormality_empty_charge.png:system/etc/charger/1080x1920/battery_abnormality_empty_charge.png \	
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x1920/battery_abnormality_charging.png:system/etc/charger/1080x1920/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x1920/battery_abnormality_empty_charge.png:system/etc/charger/1080x1920/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x1920/battery_01.png:system/etc/charger/1080x1920/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x1920/battery_02.png:system/etc/charger/1080x1920/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x1920/battery_03.png:system/etc/charger/1080x1920/battery_03.png \
@@ -248,9 +247,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x1920/scp_charging_22.png:system/etc/charger/1080x1920/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x1920/scp_charging_23.png:system/etc/charger/1080x1920/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x1920/scp_empty_charge.png:system/etc/charger/1080x1920/scp_empty_charge.png \
-	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2160/battery_abnormality_charging.png:system/etc/charger/1080x2160/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2160/battery_abnormality_empty_charge.png:system/etc/charger/1080x2160/battery_abnormality_empty_charge.png \		
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2160/battery_abnormality_charging.png:system/etc/charger/1080x2160/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2160/battery_abnormality_empty_charge.png:system/etc/charger/1080x2160/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2160/battery_01.png:system/etc/charger/1080x2160/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2160/battery_02.png:system/etc/charger/1080x2160/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2160/battery_03.png:system/etc/charger/1080x2160/battery_03.png \
@@ -475,10 +473,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2160/scp_charging_22.png:system/etc/charger/1080x2160/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2160/scp_charging_23.png:system/etc/charger/1080x2160/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2160/scp_empty_charge.png:system/etc/charger/1080x2160/scp_empty_charge.png \
-
-
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2220/battery_abnormality_charging.png:system/etc/charger/1080x2220/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2220/battery_abnormality_empty_charge.png:system/etc/charger/1080x2220/battery_abnormality_empty_charge.png \		
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2220/battery_abnormality_charging.png:system/etc/charger/1080x2220/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2220/battery_abnormality_empty_charge.png:system/etc/charger/1080x2220/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2220/battery_01.png:system/etc/charger/1080x2220/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2220/battery_02.png:system/etc/charger/1080x2220/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2220/battery_03.png:system/etc/charger/1080x2220/battery_03.png \
@@ -703,10 +699,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2220/scp_charging_22.png:system/etc/charger/1080x2220/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2220/scp_charging_23.png:system/etc/charger/1080x2220/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2220/scp_empty_charge.png:system/etc/charger/1080x2220/scp_empty_charge.png \
-
-
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2240/battery_abnormality_charging.png:system/etc/charger/1080x2240/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2240/battery_abnormality_empty_charge.png:system/etc/charger/1080x2240/battery_abnormality_empty_charge.png \		
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2240/battery_abnormality_charging.png:system/etc/charger/1080x2240/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2240/battery_abnormality_empty_charge.png:system/etc/charger/1080x2240/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2240/battery_01.png:system/etc/charger/1080x2240/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2240/battery_02.png:system/etc/charger/1080x2240/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2240/battery_03.png:system/etc/charger/1080x2240/battery_03.png \
@@ -931,10 +925,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2240/scp_charging_22.png:system/etc/charger/1080x2240/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2240/scp_charging_23.png:system/etc/charger/1080x2240/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2240/scp_empty_charge.png:system/etc/charger/1080x2240/scp_empty_charge.png \
-
-
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2244/battery_abnormality_charging.png:system/etc/charger/1080x2244/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2244/battery_abnormality_empty_charge.png:system/etc/charger/1080x2244/battery_abnormality_empty_charge.png \		
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2244/battery_abnormality_charging.png:system/etc/charger/1080x2244/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2244/battery_abnormality_empty_charge.png:system/etc/charger/1080x2244/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2244/battery_01.png:system/etc/charger/1080x2244/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2244/battery_02.png:system/etc/charger/1080x2244/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2244/battery_03.png:system/etc/charger/1080x2244/battery_03.png \
@@ -1159,9 +1151,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2244/scp_charging_22.png:system/etc/charger/1080x2244/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2244/scp_charging_23.png:system/etc/charger/1080x2244/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2244/scp_empty_charge.png:system/etc/charger/1080x2244/scp_empty_charge.png \
-		
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2280/battery_abnormality_charging.png:system/etc/charger/1080x2280/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2280/battery_abnormality_empty_charge.png:system/etc/charger/1080x2280/battery_abnormality_empty_charge.png \			
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2280/battery_abnormality_charging.png:system/etc/charger/1080x2280/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2280/battery_abnormality_empty_charge.png:system/etc/charger/1080x2280/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2280/battery_01.png:system/etc/charger/1080x2280/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2280/battery_02.png:system/etc/charger/1080x2280/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2280/battery_03.png:system/etc/charger/1080x2280/battery_03.png \
@@ -1386,10 +1377,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2280/scp_charging_22.png:system/etc/charger/1080x2280/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2280/scp_charging_23.png:system/etc/charger/1080x2280/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2280/scp_empty_charge.png:system/etc/charger/1080x2280/scp_empty_charge.png \
-
-
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2340/battery_abnormality_charging.png:system/etc/charger/1080x2340/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2340/battery_abnormality_empty_charge.png:system/etc/charger/1080x2340/battery_abnormality_empty_charge.png \		
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2340/battery_abnormality_charging.png:system/etc/charger/1080x2340/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2340/battery_abnormality_empty_charge.png:system/etc/charger/1080x2340/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2340/battery_01.png:system/etc/charger/1080x2340/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2340/battery_02.png:system/etc/charger/1080x2340/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2340/battery_03.png:system/etc/charger/1080x2340/battery_03.png \
@@ -1614,9 +1603,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2340/scp_charging_22.png:system/etc/charger/1080x2340/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2340/scp_charging_23.png:system/etc/charger/1080x2340/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1080x2340/scp_empty_charge.png:system/etc/charger/1080x2340/scp_empty_charge.png \
-	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920/battery_abnormality_charging.png:system/etc/charger/1200x1920/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920/battery_abnormality_empty_charge.png:system/etc/charger/1200x1920/battery_abnormality_empty_charge.png \	
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920/battery_abnormality_charging.png:system/etc/charger/1200x1920/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920/battery_abnormality_empty_charge.png:system/etc/charger/1200x1920/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920/battery_01.png:system/etc/charger/1200x1920/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920/battery_02.png:system/etc/charger/1200x1920/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920/battery_03.png:system/etc/charger/1200x1920/battery_03.png \
@@ -1841,9 +1829,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920/scp_charging_22.png:system/etc/charger/1200x1920/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920/scp_charging_23.png:system/etc/charger/1200x1920/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920/scp_empty_charge.png:system/etc/charger/1200x1920/scp_empty_charge.png \
-	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920_hz/battery_abnormality_charging.png:system/etc/charger/1200x1920_hz/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920_hz/battery_abnormality_empty_charge.png:system/etc/charger/1200x1920_hz/battery_abnormality_empty_charge.png \		
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920_hz/battery_abnormality_charging.png:system/etc/charger/1200x1920_hz/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920_hz/battery_abnormality_empty_charge.png:system/etc/charger/1200x1920_hz/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920_hz/battery_01.png:system/etc/charger/1200x1920_hz/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920_hz/battery_02.png:system/etc/charger/1200x1920_hz/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920_hz/battery_03.png:system/etc/charger/1200x1920_hz/battery_03.png \
@@ -2068,9 +2055,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920_hz/scp_charging_22.png:system/etc/charger/1200x1920_hz/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920_hz/scp_charging_23.png:system/etc/charger/1200x1920_hz/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1200x1920_hz/scp_empty_charge.png:system/etc/charger/1200x1920_hz/scp_empty_charge.png \
-
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2560/battery_abnormality_charging.png:system/etc/charger/1440x2560/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2560/battery_abnormality_empty_charge.png:system/etc/charger/1440x2560/battery_abnormality_empty_charge.png \			
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2560/battery_abnormality_charging.png:system/etc/charger/1440x2560/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2560/battery_abnormality_empty_charge.png:system/etc/charger/1440x2560/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2560/battery_01.png:system/etc/charger/1440x2560/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2560/battery_02.png:system/etc/charger/1440x2560/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2560/battery_03.png:system/etc/charger/1440x2560/battery_03.png \
@@ -2295,10 +2281,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2560/scp_charging_22.png:system/etc/charger/1440x2560/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2560/scp_charging_23.png:system/etc/charger/1440x2560/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2560/scp_empty_charge.png:system/etc/charger/1440x2560/scp_empty_charge.png \
-
-
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2880/battery_abnormality_charging.png:system/etc/charger/1440x2880/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2880/battery_abnormality_empty_charge.png:system/etc/charger/1440x2880/battery_abnormality_empty_charge.png \		
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2880/battery_abnormality_charging.png:system/etc/charger/1440x2880/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2880/battery_abnormality_empty_charge.png:system/etc/charger/1440x2880/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2880/battery_01.png:system/etc/charger/1440x2880/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2880/battery_02.png:system/etc/charger/1440x2880/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2880/battery_03.png:system/etc/charger/1440x2880/battery_03.png \
@@ -2523,9 +2507,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2880/scp_charging_22.png:system/etc/charger/1440x2880/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2880/scp_charging_23.png:system/etc/charger/1440x2880/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1440x2880/scp_empty_charge.png:system/etc/charger/1440x2880/scp_empty_charge.png \
-		
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560/battery_abnormality_charging.png:system/etc/charger/1600x2560/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560/battery_abnormality_empty_charge.png:system/etc/charger/1600x2560/battery_abnormality_empty_charge.png \			
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560/battery_abnormality_charging.png:system/etc/charger/1600x2560/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560/battery_abnormality_empty_charge.png:system/etc/charger/1600x2560/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560/battery_01.png:system/etc/charger/1600x2560/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560/battery_02.png:system/etc/charger/1600x2560/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560/battery_03.png:system/etc/charger/1600x2560/battery_03.png \
@@ -2750,9 +2733,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560/scp_charging_22.png:system/etc/charger/1600x2560/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560/scp_charging_23.png:system/etc/charger/1600x2560/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560/scp_empty_charge.png:system/etc/charger/1600x2560/scp_empty_charge.png \
-	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560_hz/battery_abnormality_charging.png:system/etc/charger/1600x2560_hz/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560_hz/battery_abnormality_empty_charge.png:system/etc/charger/1600x2560_hz/battery_abnormality_empty_charge.png \			
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560_hz/battery_abnormality_charging.png:system/etc/charger/1600x2560_hz/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560_hz/battery_abnormality_empty_charge.png:system/etc/charger/1600x2560_hz/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560_hz/battery_01.png:system/etc/charger/1600x2560_hz/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560_hz/battery_02.png:system/etc/charger/1600x2560_hz/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560_hz/battery_03.png:system/etc/charger/1600x2560_hz/battery_03.png \
@@ -2977,8 +2959,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560_hz/scp_charging_22.png:system/etc/charger/1600x2560_hz/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560_hz/scp_charging_23.png:system/etc/charger/1600x2560_hz/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/1600x2560_hz/scp_empty_charge.png:system/etc/charger/1600x2560_hz/scp_empty_charge.png \
-    vendor/huawei/kirin970-common/proprietary/etc/charger/720x1280/battery_abnormality_charging.png:system/etc/charger/720x1280/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/720x1280/battery_abnormality_empty_charge.png:system/etc/charger/720x1280/battery_abnormality_empty_charge.png \				
+    vendor/huawei/kirin970-common/proprietary/etc/charger/720x1280/battery_abnormality_charging.png:system/etc/charger/720x1280/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/720x1280/battery_abnormality_empty_charge.png:system/etc/charger/720x1280/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/720x1280/battery_01.png:system/etc/charger/720x1280/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/720x1280/battery_02.png:system/etc/charger/720x1280/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/720x1280/battery_03.png:system/etc/charger/720x1280/battery_03.png \
@@ -3203,8 +3185,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/720x1280/scp_charging_22.png:system/etc/charger/720x1280/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/720x1280/scp_charging_23.png:system/etc/charger/720x1280/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/720x1280/scp_empty_charge.png:system/etc/charger/720x1280/scp_empty_charge.png \
-    vendor/huawei/kirin970-common/proprietary/etc/charger/720x1440/battery_abnormality_charging.png:system/etc/charger/720x1440/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/720x1440/battery_abnormality_empty_charge.png:system/etc/charger/720x1440/battery_abnormality_empty_charge.png \			
+    vendor/huawei/kirin970-common/proprietary/etc/charger/720x1440/battery_abnormality_charging.png:system/etc/charger/720x1440/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/720x1440/battery_abnormality_empty_charge.png:system/etc/charger/720x1440/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/720x1440/battery_01.png:system/etc/charger/720x1440/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/720x1440/battery_02.png:system/etc/charger/720x1440/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/720x1440/battery_03.png:system/etc/charger/720x1440/battery_03.png \
@@ -3429,8 +3411,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/720x1440/scp_charging_22.png:system/etc/charger/720x1440/scp_charging_22.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/720x1440/scp_charging_23.png:system/etc/charger/720x1440/scp_charging_23.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/720x1440/scp_empty_charge.png:system/etc/charger/720x1440/scp_empty_charge.png \
-    vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280/battery_abnormality_charging.png:system/etc/charger/800x1280/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280/battery_abnormality_empty_charge.png:system/etc/charger/800x1280/battery_abnormality_empty_charge.png \				
+    vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280/battery_abnormality_charging.png:system/etc/charger/800x1280/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280/battery_abnormality_empty_charge.png:system/etc/charger/800x1280/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280/battery_01.png:system/etc/charger/800x1280/battery_01.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280/battery_02.png:system/etc/charger/800x1280/battery_02.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280/battery_03.png:system/etc/charger/800x1280/battery_03.png \
@@ -3804,8 +3786,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280_hz/number_8.png:system/etc/charger/800x1280_hz/number_8.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280_hz/number_9.png:system/etc/charger/800x1280_hz/number_9.png \
     vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280_hz/percent_sign.png:system/etc/charger/800x1280_hz/percent_sign.png \
-    vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280_hz/battery_abnormality_charging.png:system/etc/charger/800x1280_hz/battery_abnormality_charging.png \	
-    vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280_hz/battery_abnormality_empty_charge.png:system/etc/charger/800x1280_hz/battery_abnormality_empty_charge.png \				
+    vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280_hz/battery_abnormality_charging.png:system/etc/charger/800x1280_hz/battery_abnormality_charging.png \
+    vendor/huawei/kirin970-common/proprietary/etc/charger/800x1280_hz/battery_abnormality_empty_charge.png:system/etc/charger/800x1280_hz/battery_abnormality_empty_charge.png \
     vendor/huawei/kirin970-common/proprietary/lib/vndk-26/android.frameworks.schedulerservice@1.0.so:system/lib/vndk-26/android.frameworks.schedulerservice@1.0.so \
     vendor/huawei/kirin970-common/proprietary/lib/vndk-26/android.frameworks.sensorservice@1.0.so:system/lib/vndk-26/android.frameworks.sensorservice@1.0.so \
     vendor/huawei/kirin970-common/proprietary/lib/vndk-26/android.frameworks.vr.composer@1.0.so:system/lib/vndk-26/android.frameworks.vr.composer@1.0.so \
